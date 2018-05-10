@@ -1,0 +1,19 @@
+{
+    "name": "YouTube DL",
+    "description": "Allows downloading of youtube audio and video files",
+    "version": "0.1",
+    "permissions": [
+      "debugger",
+      "tabs",
+      "activeTab"
+    ],
+    "background": {
+      "scripts": ["background.js"]
+    },
+    "browser_action": {
+      "default_title": "YTDL"
+    },
+    "manifest_version": 2
+  }
+  
+  

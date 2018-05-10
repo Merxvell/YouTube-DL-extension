@@ -6,3 +6,7 @@ A chrome extension to download audio and video files
 
 ## Author
 Gregory Maxwell Meyers
+
+## How To
+
+Simply click on the icon when you decide to watch a video, then click the download links when they popup for video and audio files
